@@ -1,0 +1,5 @@
+POST  {{host}}/login
+Content-Type: application/json
+Accept: application/json
+
+{}

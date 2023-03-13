@@ -1,0 +1,3 @@
+GET        /xdata/web/api/health        xdata.controller.HealthCheckCC.test
+
+POST        /xdata/web/api/login        xdata.controller.UserCC.login
